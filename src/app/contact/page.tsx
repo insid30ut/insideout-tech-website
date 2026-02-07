@@ -28,8 +28,8 @@ export default function Contact() {
                 <div className="ml-6">
                   <h3 className="text-xl font-bold text-gray-900 mb-2">Phone</h3>
                   <p className="text-gray-600 mb-1">Call us for immediate assistance.</p>
-                  <a href="tel:+15551234567" className="text-blue-600 font-semibold text-lg hover:underline">
-                    (555) 123-4567
+                  <a href="tel:+19853488284" className="text-blue-600 font-semibold text-lg hover:underline">
+                    (985) 348-8284
                   </a>
                 </div>
               </div>
@@ -43,8 +43,8 @@ export default function Contact() {
                 <div className="ml-6">
                   <h3 className="text-xl font-bold text-gray-900 mb-2">Email</h3>
                   <p className="text-gray-600 mb-1">Send us a message anytime.</p>
-                  <a href="mailto:info@insideout-tech.com" className="text-blue-600 font-semibold text-lg hover:underline">
-                    info@insideout-tech.com
+                  <a href="mailto:kevin_murphy50@outlook.com" className="text-blue-600 font-semibold text-lg hover:underline">
+                    kevin_murphy50@outlook.com
                   </a>
                 </div>
               </div>
